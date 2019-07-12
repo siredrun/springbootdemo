@@ -1,0 +1,4 @@
+# 禁用缓存，热部署
+spring:
+  thymeleaf:
+    cache: false
